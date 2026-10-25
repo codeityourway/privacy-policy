@@ -1,7 +1,5 @@
 # Privacy policy: Money
 
-*Draft for the TestFlight / App Store "Privacy Policy URL". It needs to be hosted at a public web address (a page on your own site, or a public GitHub Pages / Gist page) and your name and contact email filled in. Have it read by someone who can give legal advice before the full App Store release.*
-
 **Effective:** 25 Oct 2026. **Developer:** codeityourway.com. **Contact:** webmaster.codeityourway@gmail.com.
 
 ## The short version
